@@ -4,10 +4,10 @@ public class SimpleAdder {
 	public SimpleAdder add(int num) {
 		this.num += num;
 		return this;
-	}
+	
 
 	public void showResult() {
-		System.out.println("add result : " + num);
+		System.out.println("add resultt : " + num);
 	}
 }
 
